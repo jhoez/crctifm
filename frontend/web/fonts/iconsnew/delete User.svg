@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>InternalError</Code><Message>We encountered an internal error.  Please retry the operation again later.</Message><Detail>Storage:StorSysCantCreateStorRead at=storsys.(*StorSys).Open( ./storsys/storsys.go:1694 )</Detail><RequestId>7264B1010D6B5D68</RequestId><HostId>nodTwAhygOUA1ksm+4pgFvlc//92TGuvOnDKKNBwdVsb7xcdQ3qEzcsiMPO79gkwJyR2nMAQtQk0</HostId></Error>

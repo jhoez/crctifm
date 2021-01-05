@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<g>
+	<path style="fill:#303C42;" d="M22.854,4.146l-3-3C19.76,1.053,19.633,1,19.5,1H3C1.897,1,1,1.897,1,3v18c0,1.103,0.897,2,2,2h18   c1.103,0,2-0.897,2-2V4.5C23,4.367,22.947,4.24,22.854,4.146z"/>
+	<path style="fill:#64B5F6;" d="M8,2h10v6c0,0.551-0.448,1-1,1H9C8.448,9,8,8.551,8,8V2z"/>
+	<path style="fill:#303C42;" d="M14.5,8h2C16.776,8,17,7.776,17,7.5v-4C17,3.224,16.776,3,16.5,3h-2C14.224,3,14,3.224,14,3.5v4   C14,7.776,14.224,8,14.5,8z"/>
+	<path style="fill:#1976D2;" d="M22,21c0,0.551-0.448,1-1,1h-1v-9.5c0-0.276-0.224-0.5-0.5-0.5h-15C4.224,12,4,12.224,4,12.5V22H3   c-0.552,0-1-0.449-1-1V3c0-0.551,0.448-1,1-1h4v6c0,1.103,0.897,2,2,2h8c1.103,0,2-0.897,2-2V2h0.293L22,4.707V21z"/>
+	<rect x="8" y="2" style="opacity:0.2;fill:#FFFFFF;" width="10" height="0.75"/>
+	<path style="opacity:0.2;fill:#FFFFFF;" d="M2.75,21.75v-18c0-0.551,0.448-1,1-1H7V2H3C2.448,2,2,2.449,2,3v18   c0,0.478,0.343,0.859,0.792,0.958C2.777,21.889,2.75,21.824,2.75,21.75z"/>
+	<rect x="15" y="4" style="fill:#1976D2;" width="1" height="3"/>
+	<rect x="5" y="13" style="fill:#FFFFFF;" width="14" height="7"/>
+	<rect x="5" y="21" style="fill:#E53935;" width="14" height="1"/>
+	<path style="fill:#E53935;" d="M6.5,15h11c0.276,0,0.5-0.224,0.5-0.5S17.776,14,17.5,14h-11C6.224,14,6,14.224,6,14.5   S6.224,15,6.5,15z"/>
+	<path style="fill:#E53935;" d="M6.5,17h11c0.276,0,0.5-0.224,0.5-0.5S17.776,16,17.5,16h-11C6.224,16,6,16.224,6,16.5   S6.224,17,6.5,17z"/>
+	<path style="fill:#E53935;" d="M6.5,19h11c0.276,0,0.5-0.224,0.5-0.5S17.776,18,17.5,18h-11C6.224,18,6,18.224,6,18.5   S6.224,19,6.5,19z"/>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="12.3246" y1="4.6781" x2="25.5301" y2="17.8836">
+		<stop offset="0" style="stop-color:#000000;stop-opacity:0.1"/>
+		<stop offset="1" style="stop-color:#000000;stop-opacity:0"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_1_);" d="M19,2v6c0,1.103-0.897,2-2,2H9c-0.551,0-1.05-0.224-1.412-0.585L10.173,12H19.5   c0.276,0,0.5,0.224,0.5,0.5V22h1c0.552,0,1-0.449,1-1V4.707L19.293,2H19z"/>
+	<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="7.5847" y1="9.4115" x2="7.5854" y2="9.4122">
+		<stop offset="0" style="stop-color:#000000;stop-opacity:0.1"/>
+		<stop offset="1" style="stop-color:#000000;stop-opacity:0"/>
+	</linearGradient>
+	<polygon style="fill:url(#SVGID_2_);" points="7.585,9.411 7.585,9.411 7.585,9.412  "/>
+	<g>
+		<g>
+			<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="15.0039" y1="4.9961" x2="18.2107" y2="8.2029">
+				<stop offset="0" style="stop-color:#000000;stop-opacity:0.1"/>
+				<stop offset="1" style="stop-color:#000000;stop-opacity:0"/>
+			</linearGradient>
+			<path style="fill:url(#SVGID_3_);" d="M16.854,3.146C16.944,3.237,17,3.362,17,3.5v4C17,7.776,16.776,8,16.5,8h-2     c-0.117,0-0.22-0.047-0.306-0.114L15.308,9H17c0.552,0,1-0.449,1-1V4.293L16.854,3.146z"/>
+			<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="15.0039" y1="4.9961" x2="18.2107" y2="8.2029">
+				<stop offset="0" style="stop-color:#000000;stop-opacity:0.1"/>
+				<stop offset="1" style="stop-color:#000000;stop-opacity:0"/>
+			</linearGradient>
+			<path style="fill:url(#SVGID_4_);" d="M14.102,7.788L14.1,7.792l0.014,0.014C14.11,7.8,14.106,7.794,14.102,7.788z"/>
+		</g>
+		<g>
+			<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="15.0039" y1="4.9961" x2="18.2107" y2="8.2029">
+				<stop offset="0" style="stop-color:#000000;stop-opacity:0.1"/>
+				<stop offset="1" style="stop-color:#000000;stop-opacity:0"/>
+			</linearGradient>
+			<path style="fill:url(#SVGID_5_);" d="M16.854,3.146C16.944,3.237,17,3.362,17,3.5v4C17,7.776,16.776,8,16.5,8h-2     c-0.117,0-0.22-0.047-0.306-0.114L15.308,9H17c0.552,0,1-0.449,1-1V4.293L16.854,3.146z"/>
+			<linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="14.101" y1="7.7898" x2="14.1155" y2="7.8043">
+				<stop offset="0" style="stop-color:#000000;stop-opacity:0.1"/>
+				<stop offset="1" style="stop-color:#000000;stop-opacity:0"/>
+			</linearGradient>
+			<path style="fill:url(#SVGID_6_);" d="M14.102,7.788L14.1,7.792l0.014,0.014C14.11,7.8,14.106,7.794,14.102,7.788z"/>
+		</g>
+	</g>
+	<linearGradient id="SVGID_7_" gradientUnits="userSpaceOnUse" x1="-0.8159" y1="6.4511" x2="24.4886" y2="18.2507">
+		<stop offset="0" style="stop-color:#FFFFFF;stop-opacity:0.2"/>
+		<stop offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_7_);" d="M22.854,4.146l-3-3C19.76,1.053,19.633,1,19.5,1H3C1.897,1,1,1.897,1,3v18   c0,1.103,0.897,2,2,2h18c1.103,0,2-0.897,2-2V4.5C23,4.367,22.947,4.24,22.854,4.146z"/>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<rdf:Description about="https://iconscout.com/legal#licenses" dc:title="logo; brand; brands; logos; total commander" dc:description="logo; brand; brands; logos; total commander" dc:publisher="Iconscout" dc:date="2017-03-22" dc:format="image/svg+xml" dc:language="en">
+				<dc:creator>
+					<rdf:Bag>
+						<rdf:li>Alpár - Etele Méder</rdf:li>
+					</rdf:Bag>
+				</dc:creator>
+			</rdf:Description>
+		</rdf:RDF>
+    </metadata></svg>
